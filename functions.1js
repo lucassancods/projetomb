@@ -1,0 +1,21 @@
+// criar um app de frases motivacionais
+
+// declaration - declaração da função
+// function statement
+function createPhrases() {
+  console.log('estudar é muito bom ')
+  console.log('paciência e persistência')
+  console.log('revisão é muito bom')
+}
+
+// execultar a função
+// rodar , chamar , ivocar
+// execulte, run , call ,invoke
+createPhrases()
+createPhrases()
+createPhrases()
+createPhrases()
+createPhrases()
+createPhrases()
+
+console.log('fim do programa')
